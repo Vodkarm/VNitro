@@ -48,7 +48,12 @@ Contact me on discord: Vodkarm06.py#3429
 PyFade: <a href="https://github.com/billythegoat356">@BillyTheGoat356</a>
 PyCenter: <a href="https://github.com/billythegoat356">@BillyTheGoat356</a>
 
+# Skid informations
 
+Please do not skid this script due to the work I have provided !
+Skid = Gay :)
+
+# 
 <p align="center"> 
     <b>VNitro Stats</b><br>
     <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Vodkarm/VNitro?style=social">
