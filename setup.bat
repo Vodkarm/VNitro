@@ -1,5 +1,5 @@
 @echo off
-title Sezam Installer
+title VNitro Installer
 cls
 pip install -r requirements.txt
 echo Installation finished
