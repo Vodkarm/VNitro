@@ -45,13 +45,13 @@ Contact me on discord: Vodkarm06.py#3429
 
 # Packages Credits
 
-PyFade: <a href="https://github.com/billythegoat356">@BillyTheGoat356</a>
-PyCenter: <a href="https://github.com/billythegoat356">@BillyTheGoat356</a>
+PyFade: <a href="https://github.com/billythegoat356">@BillyTheGoat356</a> <br>
+</br>PyCenter: <a href="https://github.com/billythegoat356">@BillyTheGoat356</a>
 
 # Skid informations
 
-Please do not skid this script due to the work I have provided !
-Skid = Gay :)
+Please do not skid this script due to the work I have provided !<br>
+</br>Skid = Gay :)
 
 # 
 <p align="center"> 
