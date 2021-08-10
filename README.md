@@ -30,7 +30,8 @@ Open a terminal and do these commands:
 <img src="https://i.postimg.cc/bJCtbtHG/1647-D978-F671-484-C-A13-A-54-D72693-B668.jpg">
 
 # Support me !
-           <p align="center">
+<h1 align="center">VNitro</h1>
+<p align="center">
   <b>Generate Nitro Codes with VNitro<br>🖤 Follow me here:</b><br>
   <a href="https://www.tiktok.com/@vodkarm06">Tiktok</a> |
   <a href="https://github.com/Vodkarm">Github</a>
@@ -46,3 +47,14 @@ Contact me on discord: Vodkarm06.py#3429
 
 PyFade: <a href="https://github.com/billythegoat356">@BillyTheGoat356</a>
 PyCenter: <a href="https://github.com/billythegoat356">@BillyTheGoat356</a>
+
+# VNitro Stats
+
+<p align="center"> 
+    <b>Stats</b><br>
+    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Vodkarm/VNitro?style=social">
+    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Vodkarm/VNitro">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Vodkarm/VNitro">
+    <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/Vodkarm/VNitro?style=social">
+    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Vodkarm/VNitro?style=social">
+</p>
