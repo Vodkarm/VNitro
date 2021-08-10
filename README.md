@@ -48,10 +48,9 @@ Contact me on discord: Vodkarm06.py#3429
 PyFade: <a href="https://github.com/billythegoat356">@BillyTheGoat356</a>
 PyCenter: <a href="https://github.com/billythegoat356">@BillyTheGoat356</a>
 
-# VNitro Stats
 
 <p align="center"> 
-    <b>Stats</b><br>
+    <b>VNitro Stats</b><br>
     <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Vodkarm/VNitro?style=social">
     <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Vodkarm/VNitro">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Vodkarm/VNitro">
