@@ -28,7 +28,7 @@ _  _, _//  __/ /_/ // /_/ / _  /_/ /      /_/
                             /____/"""
 
 print(Fade.Vertical(Colors.red_to_blue, center(title)))
-print(f"How many code want you {Fore.BLUE} generate {Fore.RESET} ?")
+print(f"How many code do you want{Fore.BLUE} generate {Fore.RESET} ?")
 print("")
 gen = input("")
 
