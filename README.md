@@ -45,13 +45,17 @@ Contact me on discord: Vodkarm06.py#3429
 
 # Packages Credits
 
-PyFade: <a href="https://github.com/billythegoat356">@BillyTheGoat356</a> <br>
+PyStyle: <a href="https://github.com/billythegoat356">@BillyTheGoat356</a> <br>
 </br>PyCenter: <a href="https://github.com/billythegoat356">@BillyTheGoat356</a>
 
 # Skid informations
 
 Please do not skid this script due to the work I have provided !<br>
 </br>Skid = Gay :)
+
+# Last Patch
+
+9/10/21: PyStyle is fixed.
 
 # 
 <p align="center"> 
