@@ -17,11 +17,9 @@ Open a terminal and write
 If you have any issue with installation, you can do the **manual** installation.
 
 Open a terminal and do these commands:
-```pip install pyfade```
-```pip install pycenter```
+```pip install pystyle```
 ```pip install pycenter```
 ```pip install colorama```
-```pip install random```
 
 # Screenshots
 
