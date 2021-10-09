@@ -34,12 +34,12 @@ Open a terminal and do these commands:
   <a href="https://www.tiktok.com/@vodkarm06">Tiktok</a> |
   <a href="https://github.com/Vodkarm">Github</a>
   <br><br>
-  <img src="https://i.postimg.cc/jqc8ggvN/71-B62087-5-AF5-48-F6-B85-B-691-A14587-E0-E.png">
+  <img src="https://i.postimg.cc/TYMnnT24/D7-C836-C0-AC16-431-A-9-A09-72172-AC12-AC8.png">
 </p>
 
 # Contact me:
 
-Contact me on discord: Vodkarm06.py#3429
+Contact me on discord: Ѵodkarm.py#3429
 
 # Packages Credits
 
@@ -53,7 +53,7 @@ Please do not skid this script due to the work I have provided !<br>
 
 # Last Patch
 
-9/10/21: PyStyle is fixed.
+9/10/21: PyStyle & .bat file is fixed.
 
 # 
 <p align="center"> 
@@ -62,5 +62,4 @@ Please do not skid this script due to the work I have provided !<br>
     <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Vodkarm/VNitro">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Vodkarm/VNitro">
     <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/Vodkarm/VNitro?style=social">
-    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Vodkarm/VNitro?style=social">
 </p>
