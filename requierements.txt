@@ -1,4 +1,4 @@
 colorama
-pyfade
+pystyle
 pycenter
 time
