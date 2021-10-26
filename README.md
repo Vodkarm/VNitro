@@ -1,5 +1,5 @@
 # VNitro
-Beautiful, fast, optimised, generate Nitro Codes without limits !
+Beautiful, fast, optimised, generate unchecked Nitro Codes without limits !
 
 # Setup
 
