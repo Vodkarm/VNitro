@@ -10,30 +10,12 @@ title = """
   \ \ / /|  \| | | __| '__/ _ \ 
    \ V / | |\  | | |_| | | (_) |
     \_/  |_| \_|_|\__|_|  \___/           https://github.com/Vodkarm/VNitro/"""
-    
-loading = """
-______              _____________                        
-___  / ____________ ______  /__(_)_____________ _        
-__  /  _  __ \  __ `/  __  /__  /__  __ \_  __ `/        
-_  /___/ /_/ / /_/ // /_/ / _  / _  / / /  /_/ /________ 
-/_____/\____/\__,_/ \__,_/  /_/  /_/ /_/_\__, /_(_)(_)(_)
-                                        /____/"""
-
-ready = """
-________            _________            ______
-___  __ \__________ ______  /____  __    ___  /
-__  /_/ /  _ \  __ `/  __  /__  / / /    __  / 
-_  _, _//  __/ /_/ // /_/ / _  /_/ /      /_/  
-/_/ |_| \___/\__,_/ \__,_/  _\__, /      (_)   
-                            /____/"""
 
 print(Colorate.Vertical(Colors.red_to_blue, center(title), 1))
-print(f"How many code do you want{Fore.BLUE} generate {Fore.RESET} ?")
+print(f"How many codes do you want{Fore.BLUE} generate {Fore.RESET} ?")
 print("")
 gen = input("")
 
-print(Colorate.Vertical(Colors.red_to_blue, center(loading), 1))
-sleep(2)
 with open("vnitro-result.txt", "w") as f:
  
   for i in range(int(gen)):
@@ -44,5 +26,4 @@ with open("vnitro-result.txt", "w") as f:
 
     f.write(f"{passwd}\n")
     
-print(Colorate.Vertical(Colors.red_to_blue, center(ready), 1))
-print("Your nitro codes is " + Fore.GREEN + "ready " + Fore.RESET + "in vnitro-result.txt")
+print("Your nitro codes was " + Fore.GREEN + "generated " + Fore.RESET + "in vnitro-result.txt")
